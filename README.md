@@ -8,7 +8,7 @@ Built as a beginner project for the **Sigma Web Development Course** and redesig
 
 ## 📖 About
 
-This website tells a story in **6 chapters** through video and audio. It traces the path from early career dreams, through moments of doubt and change, to ultimately discovering a passion for programming, MERN Stack development, and AI.
+This website tells a story in **6 chapters** through video. It traces the path from early career dreams, through moments of doubt and change, to ultimately discovering a passion for programming, MERN Stack development, and AI.
 
 ---
 
@@ -16,7 +16,7 @@ This website tells a story in **6 chapters** through video and audio. It traces 
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
 ---
 
