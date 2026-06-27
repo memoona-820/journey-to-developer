@@ -23,7 +23,6 @@ This website tells a story in **6 chapters** through video. It traces the path f
 ## ✨ Features
 
 - 📹 6 video chapters with descriptions
-- 🎵 6 audio tracks (Urdu songs)
 - Responsive grid layout
 - Scroll-triggered fade-in animations
 - Dark hero section with modern typography
@@ -39,7 +38,6 @@ This website tells a story in **6 chapters** through video. It traces the path f
 ├── style.css       # Styles
 ├── script.js       # Animations
 ├── 1.mp4 – 6.mp4  # Video chapters
-└── 1.mp3 – 6.mp3  # Audio tracks
 ```
 
 ---
@@ -57,13 +55,13 @@ This website tells a story in **6 chapters** through video. It traces the path f
 ## 📚 Course
 
 **Sigma Web Development Course** — Tutorial 12  
-Task: Embed multiple video and audio files in a webpage using HTML5 media elements.
+Task: Embed multiple video in a webpage using HTML5 media elements.
 
 ---
 
 ## 🙏 Credits
 
-- Videos and audio used for **educational purposes only**
+- Videos used for **educational purposes only**
 - No copyright infringement intended
 - Course mentor: **Harry Bhaya**
 
